@@ -21,7 +21,7 @@ I am a mechatronic engineering student. I´m passionate about teach 💻, techno
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroomtz17&show_icons=true&hide_border=true)
 ---
 
-##  Let's connect :speech_balloon:
+##  Let's connect <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroo-mart%C3%ADnez-%C3%A1lvarez/)](https://www.linkedin.com/in/pedroo-mart%C3%ADnez-%C3%A1lvarez/)
 [![Gmail Badge](https://img.shields.io/badge/-pedroomtz17-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pedroomtz17@gmail.com)](mailto:pedroomtz17@gmail.com) 
