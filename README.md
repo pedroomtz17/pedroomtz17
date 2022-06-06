@@ -19,8 +19,10 @@ I am a mechatronic engineering student. I´m passionate about teach 💻, techno
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">
 
 ## My profile overview:
-
+<div align="center">
+  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedroomtz17&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+<br/>
 
 ##  Let's connect <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
@@ -28,8 +30,7 @@ I am a mechatronic engineering student. I´m passionate about teach 💻, techno
 [![Gmail Badge](https://img.shields.io/badge/-pedroomtz17@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pedroomtz17@gmail.com)](mailto:pedroomtz17@gmail.com) 
 
 You can talk to me in English ans Spanish
-
-<p align="center">
-
-</p>
+<div align="center">
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br/>
 
