@@ -30,6 +30,6 @@ I am a mechatronic engineering student. I´m passionate about teach 💻, techno
 You can talk to me in English ans Spanish
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
 </p>
 
