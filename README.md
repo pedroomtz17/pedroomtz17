@@ -14,7 +14,8 @@ I am a mechatronic engineering student. I´m passionate about teach 💻, techno
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ---
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+My profile overview:
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroomtz17&show_icons=true&hide_border=true)
 ---
 
