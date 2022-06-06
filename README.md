@@ -11,12 +11,10 @@ I am a mechatronic engineering student. I´m passionate about teach 💻, techno
 - ⚡ Fun fact: 🎶 **Music** 📺 **TvSeries** 📖 **Reading** 
 
 ### 🛠️ Languages and Tools:
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle) <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> 
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/Quananhle)
-<br /><img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">
+![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord) <br /><img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint"> ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)  
 
 ## My profile overview:
 <div align="center">
@@ -30,7 +28,3 @@ I am a mechatronic engineering student. I´m passionate about teach 💻, techno
 [![Gmail Badge](https://img.shields.io/badge/-pedroomtz17@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pedroomtz17@gmail.com)](mailto:pedroomtz17@gmail.com) 
 
 You can talk to me in English ans Spanish
-<div align="center">
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br/>
-
