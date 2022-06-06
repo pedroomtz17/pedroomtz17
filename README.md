@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Hola mi nombre es Pedro Martínez Álvarez, actualmente estoy estudiando la licenciatura de ingeniería Mectrónica en la Facultad de Ingeniería UNAM.
+Hola mi nombre es Pedro Martínez Álvarez, actualmente estoy estudiando la licenciatura de ingeniería Mecatrónica en la Facultad de Ingeniería UNAM.
 <!--
 **pedroomtz17/pedroomtz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
