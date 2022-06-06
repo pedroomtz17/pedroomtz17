@@ -22,12 +22,7 @@ My profile overview:
 ## Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroo-mart%C3%ADnez-%C3%A1lvarez/)](https://www.linkedin.com/in/pedroo-mart%C3%ADnez-%C3%A1lvarez/)
-
-[![Gmail Badge](https://img.shields.io/badge/-pedroomtz17-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pedroomtz17@gmail.com)](mailto:pedroomtz17@gmail.com)
-
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/pedroomtz17) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">]([www.linkedin.com/in/pedroo-martínez-álvarez](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](pedroomtz17@gmail.com)
-|---|---|---|
+[![Gmail Badge](https://img.shields.io/badge/-pedroomtz17-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pedroomtz17@gmail.com)](mailto:pedroomtz17@gmail.com) 
 
 You can talk to me in English ans Spanish
 
