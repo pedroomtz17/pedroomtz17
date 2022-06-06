@@ -21,6 +21,8 @@ My profile overview:
 
 ## Contact
 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pedroo-martínez-álvarez)](www.linkedin.com/in/pedroo-martínez-álvarez)
+
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/pedroomtz17) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">]([www.linkedin.com/in/pedroo-martínez-álvarez](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](pedroomtz17@gmail.com)
 |---|---|---|
 
