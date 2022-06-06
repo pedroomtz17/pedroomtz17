@@ -15,11 +15,11 @@ I am a mechatronic engineering student. I´m passionate about teach 💻, techno
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/Quananhle)
----
+
 ## My profile overview:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroomtz17&show_icons=true&hide_border=true)
----
+
 
 ##  Let's connect <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
