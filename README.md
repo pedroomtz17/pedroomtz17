@@ -28,3 +28,8 @@ I am a mechatronic engineering student. I´m passionate about teach 💻, techno
 [![Gmail Badge](https://img.shields.io/badge/-pedroomtz17-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pedroomtz17@gmail.com)](mailto:pedroomtz17@gmail.com) 
 
 You can talk to me in English ans Spanish
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+
