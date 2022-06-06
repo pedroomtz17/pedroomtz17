@@ -18,8 +18,7 @@ I am a mechatronic engineering student. I´m passionate about teach 💻, techno
 
 ## My profile overview:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroomtz17&show_icons=true&hide_border=true)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=pedroomtz17&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
 
 ##  Let's connect <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
