@@ -8,7 +8,7 @@ I am a mechatronic engineering student. I´m passionate about teach 💻, techno
 - 🌱 I’m currently learning **Python and JavaScrip**
 - 👯 I’m looking to collaborate on **great proyects**
 - 💬 Ask me about **whatever you want, I´m open to help or share**
-- ⚡ Fun fact: 🎶 **Music** 📺 **TvSeries** 📖 **Reading** 
+- ⚡ Fun fact: 🎧 **Music** 🕺🏽 **Dance** 🏋️‍♂️ **Exercise** 
 
 ### 🛠️ Languages and Tools:
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle) <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> 
