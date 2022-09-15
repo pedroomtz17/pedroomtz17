@@ -3,9 +3,7 @@
 I am a mechatronic engineering student. I´m passionate about teach 💻, technology 🤖 and sports 💪
 
 
-
-- 🧐 I’m currently looking for a **new job oppotunity**
-- 🌱 I’m currently learning **Python and JavaScrip**
+- 🌱 I’m currently learning **Python and C**
 - 👯 I’m looking to collaborate on **great proyects**
 - 💬 Ask me about **whatever you want, I´m open to help or share**
 - ⚡ Fun fact: 🎧 **Music** 🕺🏽 **Dance** 🏋️‍♂️ **Exercise** 
